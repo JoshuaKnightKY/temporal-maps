@@ -1,0 +1,49 @@
+/* custom CSS rules */
+
+/* display none for layout but be careful of license restrictions */
+.mapbox-logo, {
+  display: none;
+
+}
+.legend-large, .legend-small {
+    border-radius: 50%;
+}
+
+.grade {
+  font-size: medium;
+  font-weight: bold;
+}
+
+body {
+    font-family: "Work Sans", sans-serif;
+}
+
+hr.small, hr.large {
+    font-family: 'Slabo 27px', serif;
+    width: 83px;
+    position: absolute;
+    top: -8px;
+    left: 55px;
+    border: 1px dashed #ccc;     /* overwrite assembly.css rule */
+    margin-top: 8px;            /* overwrite assembly.css rule */
+}
+
+a {
+  font-weight: bold;
+  color: #C22121;
+}
+a:hover {
+  color: #047878;
+}
+
+strong {
+  font-color: #C22121;
+}
+
+.boys {
+    color: #047878;
+}
+
+.girls {
+    color: #C22121;
+}
