@@ -1,0 +1,42 @@
+/* custom CSS rules */
+
+/* display none for layout but be careful of license restrictions */
+.mapbox-logo, {
+  display: none;
+
+}
+.legend-large, .legend-small {
+  border-radius: 50%;
+}
+
+.year {
+  font-size: medium;
+  font-weight: bold;
+}
+
+hr.small, hr.large {
+  width: 83px;
+  position: absolute;
+  top: -8px;
+  left: 55px;
+  border: 1px dashed #ccc;     /* overwrite assembly.css rule */
+  margin-top: 8px;            /* overwrite assembly.css rule */
+}
+
+a {
+  color: #3E5902;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #732002;
+  font-weight: bold;
+}
+
+.male {
+  color: #732002;
+}
+
+.female {
+  color: #3E5902;
+}

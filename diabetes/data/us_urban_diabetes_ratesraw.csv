@@ -1,0 +1,201 @@
+City,Lat,Lon,Year,Sex,Mortality Rate from diabetes Per 100k
+"Boston, MA",42.360082,-71.05888,2010,Female,9.5
+"Boston, MA",42.360082,-71.05888,2010,Male,17.1
+"Boston, MA",42.360082,-71.05888,2011,Female,16.7
+"Boston, MA",42.360082,-71.05888,2011,Male,22.4
+"Boston, MA",42.360082,-71.05888,2012,Female,15.6
+"Boston, MA",42.360082,-71.05888,2012,Male,26
+"Boston, MA",42.360082,-71.05888,2013,Female,15.7
+"Boston, MA",42.360082,-71.05888,2013,Male,24.8
+"Boston, MA",42.360082,-71.05888,2014,Female,17
+"Boston, MA",42.360082,-71.05888,2014,Male,23.6
+"Boston, MA",42.360082,-71.05888,2015,Female,17.4
+"Boston, MA",42.360082,-71.05888,2015,Male,24.4
+"Chicago, IL",41.878114,-87.629798,2010,Female,20.8
+"Chicago, IL",41.878114,-87.629798,2010,Male,30.6
+"Chicago, IL",41.878114,-87.629798,2011,Female,20.8
+"Chicago, IL",41.878114,-87.629798,2011,Male,28.1
+"Chicago, IL",41.878114,-87.629798,2012,Female,21.6
+"Chicago, IL",41.878114,-87.629798,2012,Male,30.5
+"Chicago, IL",41.878114,-87.629798,2013,Female,18.1
+"Chicago, IL",41.878114,-87.629798,2013,Male,26.7
+"Cleveland, OH",41.878114,-87.629798,2010,Female,37.8
+"Cleveland, OH",41.49932,-81.694361,2010,Male,29.4
+"Cleveland, OH",41.49932,-81.694361,2011,Female,37.3
+"Cleveland, OH",41.49932,-81.694361,2011,Male,38.4
+"Cleveland, OH",41.49932,-81.694361,2012,Female,33.4
+"Cleveland, OH",41.49932,-81.694361,2012,Male,44.1
+"Columbus, OH",39.961176,-82.998794,2010,Female,23.9
+"Columbus, OH",39.961176,-82.998794,2010,Male,28.8
+"Columbus, OH",39.961176,-82.998794,2011,Female,28.2
+"Columbus, OH",39.961176,-82.998794,2011,Male,39.8
+"Columbus, OH",39.961176,-82.998794,2012,Female,28.4
+"Columbus, OH",39.961176,-82.998794,2012,Male,40.8
+"Columbus, OH",39.961176,-82.998794,2013,Female,29.5
+"Columbus, OH",39.961176,-82.998794,2013,Male,41.7
+"Columbus, OH",39.961176,-82.998794,2014,Female,26.4
+"Columbus, OH",39.961176,-82.998794,2014,Male,47.1
+"Columbus, OH",39.961176,-82.998794,2015,Female,27.6
+"Columbus, OH",39.961176,-82.998794,2015,Male,49.2
+"Columbus, OH",39.961176,-82.998794,2016,Female,20.2
+"Columbus, OH",39.961176,-82.998794,2016,Male,42.7
+"Denver, CO",39.739236,-104.990251,2010,Female,14.63
+"Denver, CO",39.739236,-104.990251,2010,Male,23.02
+"Denver, CO",39.739236,-104.990251,2011,Female,14.8
+"Denver, CO",39.739236,-104.990251,2011,Male,26.7
+"Denver, CO",39.739236,-104.990251,2012,Female,18.9
+"Denver, CO",39.739236,-104.990251,2012,Male,22.8
+"Denver, CO",39.739236,-104.990251,2013,Female,15.3
+"Denver, CO",39.739236,-104.990251,2013,Male,26.3
+"Denver, CO",39.739236,-104.990251,2014,Female,13.33
+"Denver, CO",39.739236,-104.990251,2014,Male,30.76
+"Denver, CO",39.739236,-104.990251,2015,Female,17.85
+"Denver, CO",39.739236,-104.990251,2015,Male,25.35
+"Denver, CO",39.739236,-104.990251,2016,Female,17.87
+"Denver, CO",39.739236,-104.990251,2016,Male,25.6
+"Detroit, MI",42.331427,-83.045754,2011,Female,24.1
+"Detroit, MI",42.331427,-83.045754,2011,Male,28.7
+"Detroit, MI",42.331427,-83.045754,2013,Female,28.8
+"Detroit, MI",42.331427,-83.045754,2013,Male,36.1
+"Detroit, MI",42.331427,-83.045754,2014,Female,28.1
+"Detroit, MI",42.331427,-83.045754,2014,Male,41
+"Detroit, MI",42.331427,-83.045754,2015,Female,28.8
+"Detroit, MI",42.331427,-83.045754,2015,Male,39.7
+"Fort Worth (Tarrant County), TX",32.755488,-97.330766,2010,Female,16.3
+"Fort Worth (Tarrant County), TX",32.755488,-97.330766,2010,Male,26.1
+"Fort Worth (Tarrant County), TX",32.755488,-97.330766,2011,Female,14.6
+"Fort Worth (Tarrant County), TX",32.755488,-97.330766,2011,Male,25.4
+"Fort Worth (Tarrant County), TX",32.755488,-97.330766,2012,Female,19.9
+"Fort Worth (Tarrant County), TX",32.755488,-97.330766,2012,Male,25.9
+"Houston, TX",29.760427,-95.369803,2010,Female,16.7
+"Houston, TX",29.760427,-95.369803,2010,Male,22.8
+"Houston, TX",29.760427,-95.369803,2011,Female,17.2
+"Houston, TX",29.760427,-95.369803,2011,Male,21.3
+"Houston, TX",29.760427,-95.369803,2012,Female,20.1
+"Houston, TX",29.760427,-95.369803,2012,Male,24
+"Kansas City, MO",39.099727,-94.578567,2011,Female,17
+"Kansas City, MO",39.099727,-94.578567,2011,Male,26.5
+"Kansas City, MO",39.099727,-94.578567,2012,Female,18.1
+"Kansas City, MO",39.099727,-94.578567,2012,Male,27.6
+"Kansas City, MO",39.099727,-94.578567,2013,Female,22.9
+"Kansas City, MO",39.099727,-94.578567,2013,Male,36.7
+"Kansas City, MO",39.099727,-94.578567,2014,Female,21.3
+"Kansas City, MO",39.099727,-94.578567,2014,Male,25.8
+"Kansas City, MO",39.099727,-94.578567,2015,Female,14.7
+"Kansas City, MO",39.099727,-94.578567,2015,Male,26
+"Las Vegas (Clark County), NV",36.169941,-115.13983,2011,Female,11.1
+"Las Vegas (Clark County), NV",36.169941,-115.13983,2011,Male,14
+"Las Vegas (Clark County), NV",36.169941,-115.13983,2012,Female,9.9
+"Las Vegas (Clark County), NV",36.169941,-115.13983,2012,Male,17.6
+"Las Vegas (Clark County), NV",36.169941,-115.13983,2013,Female,9.9
+"Las Vegas (Clark County), NV",36.169941,-115.13983,2013,Male,13.7
+"Long Beach, CA",33.77005,-118.193739,2011,Female,12.8
+"Long Beach, CA",33.77005,-118.193739,2011,Male,25
+"Long Beach, CA",33.77005,-118.193739,2012,Female,11.7
+"Long Beach, CA",33.77005,-118.193739,2012,Male,26.3
+"Long Beach, CA",33.77005,-118.193739,2013,Female,14.1
+"Long Beach, CA",33.77005,-118.193739,2013,Male,19.8
+"Long Beach, CA",33.77005,-118.193739,2014,Female,18
+"Long Beach, CA",33.77005,-118.193739,2014,Male,14
+"Los Angeles, CA",34.052234,-118.243685,2010,Female,12.3
+"Los Angeles, CA",34.052234,-118.243685,2010,Male,16.5
+"Los Angeles, CA",34.052234,-118.243685,2011,Female,13.1
+"Los Angeles, CA",34.052234,-118.243685,2011,Male,18.9
+"Los Angeles, CA",34.052234,-118.243685,2012,Female,13.2
+"Los Angeles, CA",34.052234,-118.243685,2012,Male,16.6
+"Miami (Miami-Dade County), FL",25.76168,-80.19179,2010,Female,18.6
+"Miami (Miami-Dade County), FL",25.76168,-80.19179,2010,Male,28.8
+"Miami (Miami-Dade County), FL",25.76168,-80.19179,2011,Female,16.1
+"Miami (Miami-Dade County), FL",25.76168,-80.19179,2011,Male,24.4
+"Miami (Miami-Dade County), FL",25.76168,-80.19179,2012,Female,18.3
+"Miami (Miami-Dade County), FL",25.76168,-80.19179,2012,Male,26.1
+"Miami (Miami-Dade County), FL",25.76168,-80.19179,2013,Female,17.3
+"Miami (Miami-Dade County), FL",25.76168,-80.19179,2013,Male,24.1
+"Miami (Miami-Dade County), FL",25.76168,-80.19179,2014,Female,17.3
+"Miami (Miami-Dade County), FL",25.76168,-80.19179,2014,Male,26.3
+"Minneapolis, MN",44.977753,-93.265011,2010,Female,17.8
+"Minneapolis, MN",44.977753,-93.265011,2010,Male,25.8
+"Minneapolis, MN",44.977753,-93.265011,2011,Female,14.6
+"Minneapolis, MN",44.977753,-93.265011,2011,Male,23.6
+"Minneapolis, MN",44.977753,-93.265011,2012,Female,21
+"Minneapolis, MN",44.977753,-93.265011,2012,Male,37.7
+"Minneapolis, MN",44.977753,-93.265011,2013,Female,26.1
+"Minneapolis, MN",44.977753,-93.265011,2013,Male,31.6
+"Minneapolis, MN",44.977753,-93.265011,2014,Female,10.5
+"Minneapolis, MN",44.977753,-93.265011,2014,Male,29.6
+"New York City, NY",40.712775,-74.005973,2011,Female,18.2
+"New York City, NY",40.712775,-74.005973,2011,Male,24.2
+"New York City, NY",40.712775,-74.005973,2012,Female,17.8
+"New York City, NY",40.712775,-74.005973,2012,Male,24.7
+"New York City, NY",40.712775,-74.005973,2013,Female,18
+"New York City, NY",40.712775,-74.005973,2013,Male,24.3
+"New York City, NY",40.712775,-74.005973,2014,Female,16.8
+"New York City, NY",40.712775,-74.005973,2014,Male,23.8
+"New York City, NY",40.712775,-74.005973,2015,Female,16.9
+"New York City, NY",40.712775,-74.005973,2015,Male,24.2
+"Oakland (Alameda County), CA",37.804364,-122.271114,2011,Female,23.2
+"Oakland (Alameda County), CA",37.804364,-122.271114,2011,Male,32
+"Oakland (Alameda County), CA",37.804364,-122.271114,2014,Female,22.1
+"Oakland (Alameda County), CA",37.804364,-122.271114,2014,Male,31
+"Philadelphia, PA",39.952584,-75.165222,2010,Female,16.9
+"Philadelphia, PA",39.952584,-75.165222,2010,Male,25.6
+"Philadelphia, PA",39.952584,-75.165222,2011,Female,23.6
+"Philadelphia, PA",39.952584,-75.165222,2011,Male,31.4
+"Philadelphia, PA",39.952584,-75.165222,2012,Female,18.7
+"Philadelphia, PA",39.952584,-75.165222,2012,Male,26.7
+"Phoenix, AZ",33.448377,-112.074037,2010,Female,16.8
+"Phoenix, AZ",33.448377,-112.074037,2010,Male,15.7
+"Phoenix, AZ",33.448377,-112.074037,2011,Female,20.9
+"Phoenix, AZ",33.448377,-112.074037,2011,Male,20.8
+"Phoenix, AZ",33.448377,-112.074037,2012,Female,22
+"Phoenix, AZ",33.448377,-112.074037,2012,Male,22.1
+"Phoenix, AZ",33.448377,-112.074037,2013,Female,19.1
+"Phoenix, AZ",33.448377,-112.074037,2013,Male,21.1
+"Portland (Multnomah County), OR",45.523062,-122.676482,2011,Female,18.5
+"Portland (Multnomah County), OR",45.523062,-122.676482,2011,Male,35
+"Portland (Multnomah County), OR",45.523062,-122.676482,2012,Female,18.3
+"Portland (Multnomah County), OR",45.523062,-122.676482,2012,Male,32.6
+"Portland (Multnomah County), OR",45.523062,-122.676482,2013,Female,19.7
+"Portland (Multnomah County), OR",45.523062,-122.676482,2013,Male,33.1
+"Portland (Multnomah County), OR",45.523062,-122.676482,2014,Female,19.3
+"Portland (Multnomah County), OR",45.523062,-122.676482,2014,Male,27.4
+"Portland (Multnomah County), OR",45.523062,-122.676482,2015,Female,23.6
+"Portland (Multnomah County), OR",45.523062,-122.676482,2015,Male,30.6
+"San Antonio, TX",29.424122,-98.493628,2011,Female,24.2
+"San Antonio, TX",29.424122,-98.493628,2011,Male,34.4
+"San Antonio, TX",29.424122,-98.493628,2012,Female,21.5
+"San Antonio, TX",29.424122,-98.493628,2012,Male,23.9
+"San Antonio, TX",29.424122,-98.493628,2013,Female,21.1
+"San Antonio, TX",29.424122,-98.493628,2013,Male,24.2
+"San Diego County, CA",32.715738,-117.161084,2010,Female,14.8
+"San Diego County, CA",32.715738,-117.161084,2010,Male,24.5
+"San Diego County, CA",32.715738,-117.161084,2011,Female,15.9
+"San Diego County, CA",32.715738,-117.161084,2011,Male,21.9
+"San Diego County, CA",32.715738,-117.161084,2012,Female,16.4
+"San Diego County, CA",32.715738,-117.161084,2012,Male,25.4
+"San Francisco, CA",37.774929,-122.419416,2010,Female,11.3
+"San Francisco, CA",37.774929,-122.419416,2010,Male,12.9
+"San Francisco, CA",37.774929,-122.419416,2013,Female,12
+"San Francisco, CA",37.774929,-122.419416,2013,Male,17
+"San Jose, CA",37.338208,-121.886329,2011,Female,22.4
+"San Jose, CA",37.338208,-121.886329,2011,Male,37.7
+"San Jose, CA",37.338208,-121.886329,2012,Female,25.6
+"San Jose, CA",37.338208,-121.886329,2012,Male,36.9
+"San Jose, CA",37.338208,-121.886329,2013,Female,26.7
+"San Jose, CA",37.338208,-121.886329,2013,Male,35.2
+"Seattle, WA",47.606209,-122.332071,2011,Female,17.8
+"Seattle, WA",47.606209,-122.332071,2011,Male,26.4
+"Seattle, WA",47.606209,-122.332071,2012,Female,16
+"Seattle, WA",47.606209,-122.332071,2012,Male,26
+"Seattle, WA",47.606209,-122.332071,2013,Female,13.6
+"Seattle, WA",47.606209,-122.332071,2013,Male,24.4
+"Seattle, WA",47.606209,-122.332071,2014,Female,15.9
+"Seattle, WA",47.606209,-122.332071,2014,Male,22.9
+"Seattle, WA",47.606209,-122.332071,2015,Female,14.7
+"Seattle, WA",47.606209,-122.332071,2015,Male,20.2
+"Washington, DC",38.907192,-77.036871,2010,Female,23.7
+"Washington, DC",38.907192,-77.036871,2010,Male,26.4
+"Washington, DC",38.907192,-77.036871,2011,Female,23.1
+"Washington, DC",38.907192,-77.036871,2011,Male,32.1
+"Washington, DC",38.907192,-77.036871,2012,Female,22.2
+"Washington, DC",38.907192,-77.036871,2012,Male,26.5

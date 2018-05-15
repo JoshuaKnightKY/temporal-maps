@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset=utf-8 />
+  <title>Urban Diabetes Mortality</title>
+  <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+
+  <link href='https://api.mapbox.com/mapbox-assembly/v0.21.2/assembly.min.css' rel='stylesheet'>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css" />
+  <link href='css/styles.css' rel='stylesheet' />
+</head>
+
+<body>
+
+  <div class='flex-parent viewport-full relative scroll-hidden'>
+    <div class='flex-child w-full w300-ml absolute static-ml left bottom'>
+      <div class='flex-parent flex-parent--column viewport-third h-full-ml hmax-full bg-white py18 px12'>
+        <div class='flex-child flex-child--grow px12 py12 scroll-auto'>
+          <h1 class='txt-h1 mb6'>diabetes by sex over time</h1>
+          <p>Data from the <a href="http://www.bigcitieshealth.org/">Big Cities Health Coalition (BCHC)</a> from the metopolitan
+            health departments of 15 cities was analyzed, with gaps completed using simple interpolation to display trends
+            in the diabetes mortality rate (deaths per 100k) over time.
+          <h2 class='txt-xl mt18 mb12'>Diabetes info</h2>
+          <p>Globally, in 2015, over 8% of the adult population with equal rates among men and women had diabetes.
+            This map shows geographic divergence between sexes and in trends over time.</p>
+        </div>
+        <footer class='px12 py12 bg-gray-faint txt-s'>
+          <ul>
+            <li>Explore the raw
+              <a class='link' href='http://bchi.bigcitieshealth.org/indicators/1892/20964'>data</a>
+            </li>
+            <li>Map authored by
+              <a class='link' href='https://joshuaknightky.github.io/'>Joshua Knight</a>
+            </li>
+          </ul>
+        </footer>
+      </div>
+    </div>
+    <div class='z1 flex-child flex-child--grow viewport-twothirds viewport-full-ml'>
+      <div id="map" class='viewport-twothirds viewport-full-ml'></div>
+    </div>
+  </div>
+
+  <!-- ui info panel -->
+  <div id='info' class='py6 px12 z2 bg-white border border--gray-light round absolute w240'>
+    <p><span></span></p>
+    <p class='female'>female <span></span>: <span class='txt-l txt-bold'></span></p>
+    <p class='male'>male <span></span>: <span class='txt-l txt-bold'></span></p>
+
+    <!-- Additional elements added here for this step! -->
+    <hr class='txt-hr'>
+    <p class='my6'>trend: Year 2011 &ndash; 2016</p>
+    <p class='mb6'><span class='femalespark'></span></p>
+    <p><span class='malespark'></span></p>
+  </div>
+
+  <!-- ui slider -->
+  <div id='slider' class='range w280 h25 round-ml px20'>
+    <!-- ui slider legend -->
+    <div id='slider-UI' class='round absolute px40'>
+      <p class='year'>Year:  <span></span></p>
+        <input type='range' min="2011" , max="2016" , value="2011" , step="1" , class="year-slider" />
+    </div>
+  </div>
+
+  <!-- legend -->
+  <div id='legend' class='bg-white round px12 py12 relative'>
+    <h3 class='txt-bold mb12 w180'>Deaths per 100,000 reflected by size of circles among <text class='male'>males</text> and <text class='female'>females</text>.</h3>
+    <div class='legend-circles relative w180'>
+      <div class="legend-large border border--gray-light absolute"></div>
+      <div class="legend-small border border--gray-light absolute"></div>
+      <div class="legend-large-label txt-m absolute"></div>
+      <div class="legend-small-label txt-m absolute"></div>
+    </div>
+  </div>
+
+  <script src="https://api.mapbox.com/mapbox-assembly/v0.21.2/assembly.js"></script>
+  <script src="https://unpkg.com/leaflet@1.3.1/dist/leaflet.js"></script>
+  <script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.3.1/leaflet-omnivore.min.js'></script>
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-sparklines/2.1.2/jquery.sparkline.min.js"></script>
+  <script src='js/app.js'></script>
+
+
+
+</body>
+
+</html>
